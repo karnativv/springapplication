@@ -1,0 +1,4 @@
+#NOTE: This is a Maven Resolver internal implementation file, its format can be changed without prior notice.
+#Wed Oct 21 18:53:02 SGT 2020
+spring-boot-0.0.1-SNAPSHOT.jar>=
+spring-boot-0.0.1-SNAPSHOT.pom>=
